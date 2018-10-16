@@ -1,0 +1,20 @@
+{
+  "name": "liri",
+  "version": "1.0.0",
+  "description": "",
+  "main": "liri.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "node-spotify-api": "^1.0.7",
+    "omdb": "^0.8.0",
+    "omdb-api-pt": "^2.0.1",
+    "omdb-client": "^2.0.0",
+    "omdb-js": "^1.0.0"
+  }
+}
